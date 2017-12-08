@@ -1,0 +1,19 @@
+@media only screen and (max-width: 780px) {
+    header .header-logo {
+        float: none;
+        margin: 0 auto;
+    }
+
+    header .main-nav {
+        margin: 10px auto;
+    }
+
+    header .main-nav li {
+        margin: 0 auto;
+        margin-left: 0px;
+    }
+
+    header .main-nav li:nth-child(1) {
+        margin-left: 0px;
+    }
+}
