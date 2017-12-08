@@ -461,7 +461,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'nexa_bold';
+    font-family: 'lato', sans-serif;
     text-transform: capitalize;
     width: 100%;
     height: auto;
