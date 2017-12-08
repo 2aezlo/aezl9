@@ -72,7 +72,7 @@ body {
     -moz-animation: 1s fade-scale-in;
     -webkit-animation: 1s fade-scale-in;
     animation: 1s fade-scale-in;
-    background-image: url(/resources/images/page-background.png);
+    background-image: url(assets/img/computer.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -367,10 +367,10 @@ input[type=button],
 
 .accordion-button {
     background: #7ADFBB;
-    background: linear-gradient(135deg, transparent 0px, #7ADFBB 0) top left, linear-gradient(225deg, transparent 7px, #7ADFBB 0) top right, linear-gradient(315deg, transparent 0px, #7ADFBB 0) bottom right, linear-gradient(45deg, transparent 7px, #7ADFBB 0) bottom left;
+    background: linear-gradient(135deg, transparent 0px, #7ADFBB 0) top left, linear-gradient(225deg, transparent 7px, #0366d6 0) top right, linear-gradient(315deg, transparent 0px, #7ADFBB 0) bottom right, linear-gradient(45deg, transparent 7px, #7ADFBB 0) bottom left;
     background-size: 76% 55%;
     background-repeat: no-repeat;
-    color: #36393E;
+    color: #0366d6;
     cursor: pointer;
     padding: 18px;
     margin: 10px 0;
@@ -390,12 +390,12 @@ input[type=button],
 }
 
 .accordion-button-icon {
-    color: #36393E;
+    color: #0366d6;
     float: right;
 }
 
 .accordion-button.active::after {
-    color: #36393E;
+    color: #0366d6;
     float: right;
 }
 
@@ -409,7 +409,7 @@ input[type=button],
 
 .underline-link {
     position: relative;
-    color: #7ADFBB;
+    color: #0366d6;
     padding: 2px;
 }
 
@@ -420,7 +420,7 @@ input[type=button],
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #7ADFBB;
+    background-color: #0366d6;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
     -webkit-transition: transform 0.2s ease-in-out 0s;
@@ -436,7 +436,7 @@ input[type=button],
 /* --- Icons & Images --- */
 
 footer i {
-    color: #7ADFBB;
+    color: #0366d6;
 }
 
 .tutorial-container img {
