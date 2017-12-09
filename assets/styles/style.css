@@ -545,6 +545,7 @@ header {
     border-bottom: 3px solid #7ADFBB;
     margin-bottom: 15px;
     width: 100%;
+    font-family: 'Lato', sans-serif;
 }
 
 .header_logo-main {
