@@ -72,7 +72,7 @@ body {
     -moz-animation: 1s fade-scale-in;
     -webkit-animation: 1s fade-scale-in;
     animation: 1s fade-scale-in;
-    background-image: url("http://planetearthinstitute.org.uk/wp-content/uploads/2016/04/unnamed-1200x400.jpg");
+    background-image: url(http://planetearthinstitute.org.uk/wp-content/uploads/2016/04/unnamed-1200x400.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
