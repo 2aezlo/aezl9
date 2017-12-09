@@ -367,7 +367,7 @@ input[type=button],
 
 .accordion-button {
     background: #7ADFBB;
-    background: linear-gradient(135deg, transparent 0px, #7ADFBB 0) top left, linear-gradient(225deg, transparent 7px, #0366d6 0) top right, linear-gradient(315deg, transparent 0px, #7ADFBB 0) bottom right, linear-gradient(45deg, transparent 7px, #7ADFBB 0) bottom left;
+    background: linear-gradient(135deg, transparent 0px, #0366d6 0) top left, linear-gradient(225deg, transparent 7px, #0366d6 0) top right, linear-gradient(315deg, transparent 0px, #0366d6 0) bottom right, linear-gradient(45deg, transparent 7px, #0366d6 0) bottom left;
     background-size: 76% 55%;
     background-repeat: no-repeat;
     color: #0366d6;
@@ -850,7 +850,7 @@ footer .footer-image {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #7ADFBB;
+    background: #0366d6;
     border-radius: 100px;
     background-repeat: no-repeat;
 }
