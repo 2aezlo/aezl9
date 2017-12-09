@@ -72,7 +72,7 @@ body {
     -moz-animation: 1s fade-scale-in;
     -webkit-animation: 1s fade-scale-in;
     animation: 1s fade-scale-in;
-    background-image: url("http://planetearthinstitute.org.uk/wp-content/uploads/2016/04/unnamed-1200x400.jpg");
+    background-image: url("../img/unnamed-1200x400.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -454,7 +454,6 @@ footer i {
     box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
 }
 
-
 /* --- Headings --- */
 
 h1,
@@ -545,6 +544,7 @@ header {
     border-bottom: 3px solid #7ADFBB;
     margin-bottom: 15px;
     width: 100%;
+    font-family: 'Lato', sans-serif;
 }
 
 .header_logo-main {
@@ -556,7 +556,7 @@ header nav {
 }
 
 header .header-logo {
-    width: 53px;
+    width: 150px;
     height: auto;
     margin: 10px 0 10px 10px;
     float: left;
