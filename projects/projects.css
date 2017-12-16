@@ -18,6 +18,9 @@ div {
 
 ul {
   list-style: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 li img {
