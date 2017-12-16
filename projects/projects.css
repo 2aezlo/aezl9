@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 .container {
     position: relative; 
     max-width: 800px; /* Maximum width */
@@ -11,4 +13,8 @@
     color: #f1f1f1; /* Grey text */
     width: 100%; /* Full width */
     padding: 20px; /* Some padding */
+}
+
+body {
+ font-family: 'Montserrat', sans-serif;
 }
